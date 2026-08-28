@@ -74,7 +74,7 @@ I enjoy transforming real-world problems into practical digital solutions using 
 
 <td width="35%" align="center" valign="middle">
 
-<img src="./assets/profile.png" width="280" alt="Josphin Pricilla"/>
+<img src="./ME.jpeg" width="280" alt="Josphin Pricilla"/>
 
 <br/><br/>
 
