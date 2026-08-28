@@ -273,39 +273,8 @@ A secure full-stack platform that centralizes clinical study management, partici
 
 ---
 
-## 📊 GitHub Analytics
 
 
-
-<br/>
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api?username=Josphin22&show_icons=true&hide_border=true&theme=transparent" width="80%" />
-
-</div>
-
----
-
-## 📈 Contribution Activity
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=Josphin22&bg_color=00000000&color=F8BBD0&line=FF69B4&point=EF93C4&area=true&hide_border=false&custom_title=Josphin%20Pricilla's%20Contribution%20Graph" width="95%" />
-
-</div>
-
----
-
-## 🐍 Contribution Snake
-
-<div align="center">
-
-<img src="https://raw.githubusercontent.com/Josphin22/Josphin22/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Snake" />
-
-</div>
 
 <!--
 To generate the contribution snake:
