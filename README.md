@@ -275,19 +275,15 @@ A secure full-stack platform that centralizes clinical study management, partici
 
 ## 📊 GitHub Analytics
 
-<div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=Josphin22&show_icons=true&include_all_commits=true&count_private=true&theme=transparent&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&border_color=EF93C4" height="180"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Josphin22&layout=compact&langs_count=10&theme=transparent&title_color=FF69B4&text_color=F8BBD0&border_color=EF93C4" height="180"/>
-
-</div>
 
 <br/>
 
+## 📈 Contribution Activity
+
 <div align="center">
 
-<img src="https://streak-stats.demolab.com?user=Josphin22&theme=transparent&hide_border=false&ring=FF69B4&fire=FF69B4&currStreakLabel=FF69B4&sideLabels=EF93C4&dates=F8BBD0&border=EF93C4" />
+<img src="https://github-readme-stats.vercel.app/api?username=Josphin22&show_icons=true&hide_border=true&theme=transparent" width="80%" />
 
 </div>
 
