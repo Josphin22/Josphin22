@@ -96,25 +96,14 @@ I enjoy transforming real-world problems into practical digital solutions using 
 ## 🛠️ Tech Universe
 
 <img src="./Tech-Universe.gif"
-     width="95%"
+     width="100%"
      alt="Josphin Pricilla Tech Universe"/>
-
-<br/><br/>
-
-### 💫 Technologies I Build With
-
-**☕ Java** • **🐍 Python** • **⚛️ React** • **🌱 Spring Boot**  
-**🌐 JavaScript** • **📘 TypeScript** • **🟢 Node.js** • **🐬 MySQL**  
-**🤖 AI / ML** • **☁️ AWS** • **🐳 Docker** • **🔧 Git & GitHub**
-
-<br/>
-
-`Machine Learning` · `NLP` · `Computer Vision` · `Full Stack Development`  
-`Cloud & DevOps` · `REST APIs` · `JDBC` · `JSP` · `Servlets` · `Swagger / OpenAPI`
 
 </div>
 
 ---
+
+
 
 ## 🚀 Featured Projects
 
