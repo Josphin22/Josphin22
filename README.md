@@ -95,35 +95,22 @@ I enjoy transforming real-world problems into practical digital solutions using 
 
 ## 🛠️ Tech Universe
 
-### 💻 Languages
+<img src="./Tech-Universe.gif"
+     width="95%"
+     alt="Josphin Pricilla Tech Universe"/>
 
-<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript" />
+<br/><br/>
 
-### 🌐 Frontend
+### 💫 Technologies I Build With
 
-<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,gsap" />
+**☕ Java** • **🐍 Python** • **⚛️ React** • **🌱 Spring Boot**  
+**🌐 JavaScript** • **📘 TypeScript** • **🟢 Node.js** • **🐬 MySQL**  
+**🤖 AI / ML** • **☁️ AWS** • **🐳 Docker** • **🔧 Git & GitHub**
 
-### ⚙️ Backend
+<br/>
 
-<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask" />
-
-### 🗄️ Databases
-
-<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
-
-### 🤖 AI / ML
-
-<img src="https://skillicons.dev/icons?i=python" />
-
-**Machine Learning • NLP • Computer Vision • AI Application Development**
-
-### ☁️ Cloud & DevOps
-
-<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
-
-### 🔧 Development & APIs
-
-**REST APIs • JDBC • JSP • Servlets • Swagger / OpenAPI • Microservices Fundamentals**
+`Machine Learning` · `NLP` · `Computer Vision` · `Full Stack Development`  
+`Cloud & DevOps` · `REST APIs` · `JDBC` · `JSP` · `Servlets` · `Swagger / OpenAPI`
 
 </div>
 
