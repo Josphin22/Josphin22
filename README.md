@@ -74,7 +74,7 @@ I enjoy transforming real-world problems into practical digital solutions using 
 
 <td width="35%" align="center" valign="middle">
 
-<img src="./ME.jpeg" width="280" alt="Josphin Pricilla"/>
+<img src="./assets/profile.png" width="280" alt="Josphin Pricilla"/>
 
 <br/><br/>
 
@@ -95,15 +95,39 @@ I enjoy transforming real-world problems into practical digital solutions using 
 
 ## 🛠️ Tech Universe
 
-<img src="./Tech-Universe.gif"
-     width="100%"
-     alt="Josphin Pricilla Tech Universe"/>
+### 💻 Languages
+
+<img src="https://skillicons.dev/icons?i=java,python,c,cpp,javascript,typescript" />
+
+### 🌐 Frontend
+
+<img src="https://skillicons.dev/icons?i=react,html,css,tailwind,gsap" />
+
+### ⚙️ Backend
+
+<img src="https://skillicons.dev/icons?i=spring,nodejs,express,flask" />
+
+### 🗄️ Databases
+
+<img src="https://skillicons.dev/icons?i=mysql,mongodb,sqlite,firebase" />
+
+### 🤖 AI / ML
+
+<img src="https://skillicons.dev/icons?i=python" />
+
+**Machine Learning • NLP • Computer Vision • AI Application Development**
+
+### ☁️ Cloud & DevOps
+
+<img src="https://skillicons.dev/icons?i=aws,docker,git,github" />
+
+### 🔧 Development & APIs
+
+**REST APIs • JDBC • JSP • Servlets • Swagger / OpenAPI • Microservices Fundamentals**
 
 </div>
 
 ---
-
-
 
 ## 🚀 Featured Projects
 
@@ -246,10 +270,6 @@ A secure full-stack platform that centralizes clinical study management, partici
 > Coordinating technical events, workshops and innovation-driven initiatives while connecting students, ideas, teams and opportunities to build a stronger technical community.
 
 </div>
-
----
-
-
 
 
 <!--
