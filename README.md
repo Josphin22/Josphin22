@@ -131,17 +131,6 @@ I enjoy transforming real-world problems into practical digital solutions using 
 
 ## 🚀 Featured Projects
 
-<div align="center">
-
-<a href="https://github.com/Josphin22/SkillMatchAI">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Josphin22&repo=SkillMatchAI&theme=transparent&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&border_color=EF93C4" />
-</a>
-
-<a href="https://github.com/Josphin22/CTMS">
-<img src="https://github-readme-stats.vercel.app/api/pin/?username=Josphin22&repo=CTMS&theme=transparent&title_color=FF69B4&icon_color=EF93C4&text_color=F8BBD0&border_color=EF93C4" />
-</a>
-
-</div>
 
 ### 🤖 SkillMatchAI
 
